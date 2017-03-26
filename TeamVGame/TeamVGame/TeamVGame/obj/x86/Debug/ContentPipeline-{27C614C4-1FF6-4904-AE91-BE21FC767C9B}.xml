@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2017-03-24T15:20:17-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fire.png</Source>
+      <Name>Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Fire.xnb</Output>
+      <Time>2017-03-24T15:20:17-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2017-03-24T15:30:23-06:00</Time>
+    </Item>
+    <Item>
+      <Source>erodaxia summary.png</Source>
+      <Name>erodaxia summary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\erodaxia summary.xnb</Output>
+      <Time>2017-03-24T15:30:41-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Grass.png</Source>
+      <Name>Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Grass.xnb</Output>
+      <Time>2017-03-24T17:03:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rocks.png</Source>
+      <Name>Rocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Rocks.xnb</Output>
+      <Time>2017-03-24T16:33:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tower.png</Source>
+      <Name>Tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Tower.xnb</Output>
+      <Time>2017-03-24T16:50:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Castle.png</Source>
+      <Name>Castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Castle.xnb</Output>
+      <Time>2017-03-24T17:13:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingWeak.png</Source>
+      <Name>WalkingWeak</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\WalkingWeak.xnb</Output>
+      <Time>2017-03-24T17:27:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2017-03-25T00:47:44-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{27C614C4-1FF6-4904-AE91-BE21FC767C9B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGameContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-01-24T16:37:57.9502384-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

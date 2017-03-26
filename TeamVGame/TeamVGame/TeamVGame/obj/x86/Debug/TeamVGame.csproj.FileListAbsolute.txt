@@ -1,0 +1,71 @@
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.exe
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.pdb
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.csprojResolveAssemblyReference.cache
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.exe
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.pdb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.exe
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.pdb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.exe
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.pdb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Background.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Blastoise.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Bulbasaur.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Fire.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Pidgey.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Ratata.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Charizard.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\bg.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\erodaxia summary.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Tower.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Grass.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Rocks.xnb
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Castle.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.exe
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.pdb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Background.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Fire.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\bg.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\erodaxia summary.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Grass.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Rocks.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Tower.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Castle.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.exe
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\TeamVGame.pdb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\TeamVGame.csprojResolveAssemblyReference.cache
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\WalkingWeak.xnb
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGame\bin\x86\Debug\Content\Courier New.xnb

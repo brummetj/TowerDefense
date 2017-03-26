@@ -1,0 +1,3 @@
+C:\Users\Tran\Downloads\Game Design\TeamVGame\TeamVGame\TeamVGameContent\obj\x86\Debug\TeamVGameContent.contentprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2015\Projects\TowerDefense\TeamVGame\TeamVGame\TeamVGameContent\obj\x86\Debug\TeamVGameContent.contentprojResolveAssemblyReference.cache
+Z:\Documents\TowerDefense\TeamVGame\TeamVGame\TeamVGameContent\obj\x86\Debug\TeamVGameContent.contentprojResolveAssemblyReference.cache
